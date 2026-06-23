@@ -13,6 +13,7 @@ This project analyzes COVID-19 pandemic data with a specific focus on **Banglade
 
 ## Technologies Used 🛠️
 - **Python 3**
+- **Numpy**
 - **Pandas** (Data Manipulation & Analysis)
 - **Jupyter Notebook**
 
